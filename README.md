@@ -4,7 +4,7 @@
 
 <h3>Objetivo:</h3>
 <p>Este projeto foi desenvolvido como parte do Bootcamp Santander Cibersegurança oferecido pela Digital Innovation One (DIO). 
-O objetivo deste desafio é criar um Phishing para capturar senhas de login de website</p>
+O objetivo deste desafio é criar um Phishing para capturar senhas de login de website.</p>
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
